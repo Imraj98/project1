@@ -1,0 +1,460 @@
+.banner {
+
+    background-image: url(../pic/Banner\ Image.png);
+    width: 1260px;
+    height: 600px;
+    border-radius: 16px;
+    display: flex;
+
+
+}
+
+.text-container {
+
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    text-align: center;
+    justify-content: center;
+}
+
+.banner-greeting {
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin: 0;
+    border-bottom: 0;
+    padding-top: 230px;
+    padding-left: 500px;
+    padding-right: 531px;
+
+
+}
+
+.banner-title {
+    width: 500px;
+    padding: 0px 344px 177px 360px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 0;
+}
+
+/* start main*/
+/*deal section*/
+.deal-container {
+
+    text-align: center;
+
+}
+
+.deal {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    padding: 120px 300px 0px 300px;
+    margin: 0px;
+
+}
+
+.deal-title {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 48px 8px 0px 6px;
+    margin: 0px;
+
+}
+
+.deal-categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    padding-bottom: 50px;
+    font-weight: 700;
+    margin: 0px;
+
+}
+
+.NYP {
+    width: 802.9px;
+    height: 500px;
+}
+
+/*Midnight party start*/
+
+.midnight {
+    padding-top: 120px;
+}
+
+.midnight-party {
+    display: flex;
+    background-image: url(../pic/Vectorrr.png);
+    background-size: cover;
+}
+
+.midnight-party-container {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.midnight-party-title {
+
+    width: 642px;
+    padding: 126px 100px 0px 126px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    margin: 0;
+
+}
+
+.midnight-party-description {
+    color: rgba(255, 255, 255, 0.80);
+
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    padding: 24px 200px 0px 126px;
+}
+
+.join {
+    margin: 40px 400px 142px 126px;
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 10px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+
+}
+
+#pic24 {
+    width: 319.83px;
+    height: 464.662px;
+    padding: 70px 100px 0px 0px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* address start*/
+.address {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    width: 1250px;
+    height: 482px;
+
+}
+
+.address-container {
+
+    background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+}
+
+.address-text {
+    text-align: center;
+}
+
+.address-text {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    padding: 100px 360px 14px 387px;
+}
+
+.PDT {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+
+    text-transform: capitalize;
+}
+
+.join-now {
+    margin: 40px 400px 142px 600px;
+    border-radius: 8px;
+    background: #F00;
+    display: inline-flex;
+    padding: 10px 25px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 700;
+}
+
+/*bonus start*/
+.bonus {
+    display: flex;
+}
+
+.offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    text-align: left;
+    margin: 0;
+
+}
+
+.soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin: 0;
+}
+
+.text-description {
+    color: #07021199;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 393px;
+}
+
+.elli {
+    margin: 0;
+    padding: 20px;
+    height: 364.844px;
+    border-radius: 364.844px;
+    border: 10px solid #F00;
+}
+
+.years {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+}
+
+.years-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 276px;
+
+    padding-left: 100px;
+}
+
+.bonus-pic1 {
+    width: 140px;
+    height: 140px;
+    padding: 0px 136px;
+}
+
+/*best gift starts*/
+.best {
+    padding-top: 120px;
+}
+
+.best-container {
+    text-align: left;
+}
+
+.best-gift {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.best-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin: 0px;
+    border-top: 16px;
+}
+
+.best-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    padding-left: 5px;
+    width: 896px;
+}
+
+.picture {
+    padding-top: 24px;
+}
+
+.p3 {
+    display: flex;
+    gap: 10px;
+
+}
+
+.p4 {
+    display: flex;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.ph:hover {
+    width: 400px;
+    height: 450px;
+    border-radius: 16px;
+}
+
+.subscribe {
+    margin-top: 80px;
+}
+
+.news {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    text-align: center;
+    padding-top: 60px;
+}
+
+.letter {
+    width: 100px;
+    height: 100px;
+}
+
+.news-letter {
+    color: #070211;
+
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin: 0px;
+    padding-top: 20px;
+}
+
+.news-description {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    width: 800px;
+    margin-left: 180px;
+}
+
+.srh {
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+    width: 300px;
+    height: 50px;
+    color: rgba(7, 2, 17, 0.30);
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+}
+
+.btn2 {
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 15px;
+    color: #FFF;
+
+}
+
+.btn3 {
+    display: flex;
+    padding-bottom: 50px;
+    padding-left: 400px;
+    gap: 0px;
+
+}
+
+/* footer start */
+.ftr {
+    background: #070211;
+    margin-top: 50px;
+}
+
+.unsb1 {
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.add {
+    margin-left: 200px;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 15px;
+}
+
+.contact {
+    margin-right: 300px;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 15px;
+}
+
+.ph2 {
+    margin: 0px;
+}
+
+.web {
+    margin: 0px;
+}
+
+.icon {
+    text-align: center;
+}
+
+.copy {
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 15px;
+
+}
+.cop1{
+    margin-left: 200px;
+}
+.cop2{
+    margin-right: 300px;
+}
